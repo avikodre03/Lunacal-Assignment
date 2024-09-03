@@ -1,4 +1,4 @@
-# React Vite Tailwind CSS Project
+# React Project
 
 ## Overview
 
