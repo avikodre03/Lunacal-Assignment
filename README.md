@@ -54,5 +54,7 @@ This project is a web application built with React, Vite, and Tailwind CSS. It f
    ```
    4. **Open the application:**
       Navigate to http://localhost:3000 in your browser to see the application in action.
+  ## Live Demo
+Check out the live version of the project : [Live here](https://lunacal-assignment-one.vercel.app/))
 ## Contribution
 Feel free to contribute to the project by submitting issues or pull requests.
